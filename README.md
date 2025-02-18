@@ -11,7 +11,7 @@
 - 🌱 I’m constantly exploring new tools and technologies like **Next.js, Tailwind CSS, and DevOps**.
 - 👯 I’m looking to collaborate on **open-source projects** or **exciting web application ideas**.
 - 💬 Ask me about **React, Node.js, MongoDB, and scalable architecture**.
-- 📫 How to reach me: **[itszaigham07@gmail.com](mailto:itszaigham07@gmail.com)**
+- 📫 How to reach me: **[zaighamnaveed07@gmail.com](mailto:zaighamnaveed07@gmail.com)**
 - ⚡ Fun fact: **I turn coffee ☕ into code 💻!**
 
 ---
