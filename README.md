@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaigham Chaudhary</h1>
 
 <p align="center"> 
-  A passionate and dedicated <b>MERN Stack Engineer</b> with 2 years of experience building responsive and scalable web applications. I thrive on solving complex problems, collaborating on innovative projects, and delivering high-quality solutions.
+  A passionate and dedicated <b>MERN Stack Engineer</b> with 3+ years of experience building responsive and scalable web applications. I thrive on solving complex problems, collaborating on innovative projects, and delivering high-quality solutions.
 </p>
 
 ---
